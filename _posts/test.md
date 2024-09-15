@@ -1,5 +1,5 @@
 ---
-title: "첫번 째 블로그 포스팅 입니다"
+title: "머신러닝 테스트"
 layout: single
 categories: coding
 tag: [python, blog, jekyll]
@@ -9,15 +9,9 @@ toc_label: 목차
 author_profile: false # 프로필 안보이게 하기
 sidebar:
     nav: "docs"
-search: false # 검색 차단
 ---
 
 ## 머릿말
 
 안녕하세요 반갑습니다.
 test
-## 목차e
-
-### 목차1
-### 목차2
-### 목차3
