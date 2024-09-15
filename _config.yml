@@ -112,10 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:donhakle@gmail.com"
+       url: "mailto:donhakle@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://l-bandee.github.io"
+       url: "https://l-bandee.github.io"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
@@ -124,7 +124,7 @@ author:
     #   url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/L-Bandee"
+       url: "https://github.com/L-Bandee"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
     #   url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/L-Bandee"
+       url: "https://github.com/L-Bandee"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
     #   url:
